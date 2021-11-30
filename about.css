@@ -1,7 +1,7 @@
 
 
 body {
-    background-image: url(/Users/kris2/Downloads/FinalProject/FinalProject/Newfolder/assets/img/about\ page.jpg);
+    background-image: url("aboutpage.jpg");
     background-size: 1550px;
     width: 1000px;
     height: 5000px; 
